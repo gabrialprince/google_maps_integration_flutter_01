@@ -1,16 +1,7 @@
 # google_map_flutter_integration
 
-A new Flutter project.
+This is google map integration in flutter app where you can add origin place by long press which glows in green marker and the Destination place is glown by blue markers
+Tapping on origin button on appbar will gives you tilted version of location
+Same goes for destination button
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If the API responds the distance between the places(origin and destination) will show along with red lines in the direction
